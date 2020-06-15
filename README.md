@@ -16,7 +16,7 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 3. Inside your local git repository, create a directory for the Leaflet challenge.
 
-4. This homeworks utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
+4. This project utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
 
 5. Push the above changes to GitHub or GitLab.
 
