@@ -51,6 +51,8 @@ d3.json(queryURL, function(data) {
 
    }).addTo(myMap)
 
+//Code to potentially put a mini legend on the bottom
+
 //    var info = L.control({
 //     position: "bottomright"
 //   });
