@@ -1,3 +1,5 @@
+//Keep the map and layers together
+
 let myMap = L.map("map", {
     center: [40.7, -73.95],
     zoom: 11,
